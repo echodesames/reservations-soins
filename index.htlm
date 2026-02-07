@@ -136,7 +136,6 @@ index html
     <button onclick="envoyer('rituel')">Réserver ce soin</button>
   </div>
 
-
   <!-- Soin intuitif -->
   <div class="soin" onclick="toggle('intuitif')">
     <h3>Soin intuitif – 60 €</h3>
